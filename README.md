@@ -1,2 +1,1 @@
-# basic_calc
-just style button for simple calc
+basic calc java Android studio experiments
