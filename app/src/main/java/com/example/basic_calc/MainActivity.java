@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         Double b = parseNumber(etNumber2);
 
         if (a == null || b == null) {
-            tvResult.setText("Սխալ՝ մուտքագրեք երկու թվերը");
+            tvResult.setText("Սխալ՝ պետք է երկու թիվ լինի");
             return;
         }
 
